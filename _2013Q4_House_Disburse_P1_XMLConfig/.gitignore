@@ -29,7 +29,7 @@ mvnw.cmd
 ### IntelliJ IDEA ###
 .idea
 *.iws
-*.iml
+*.imlgit commit -m "first commit"
 *.ipr
 
 ### NetBeans ###
